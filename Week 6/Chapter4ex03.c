@@ -20,3 +20,6 @@ int main()
     printf("The perimeter is:  %i in", p);
     return 0;
 }
+
+/*first we will have to declare the variables with "float" 
+and change the value to "h" and "w" */
