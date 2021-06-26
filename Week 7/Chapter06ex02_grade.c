@@ -16,16 +16,16 @@ int main()
     if (grade <= 60) {
         printf("F");
     }
-    if (grade <= 70 && grade >60) {
+    if (grade <=70 && grade>60) {
         printf("D");
     }
-    if (grade <= 80 && grade >70) {
+    if (grade<= 80 && grade>70) {
         printf("C");
     }
-    if (grade <= 90 && grade >80) {
+    if (grade<=90 && grade>80) {
         printf("B");
     }
-    if (grade <= 100 && grade >90) {
+    if (grade <=100 && grade>90) {
         printf("A");
     }
 
