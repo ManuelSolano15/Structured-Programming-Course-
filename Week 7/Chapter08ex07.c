@@ -1,4 +1,4 @@
-/*Chapter12ex02: Design a structure to store time and date. Write a function to find 
+/*Chapter08ex07: Design a structure to store time and date. Write a function to find 
 the difference between two times in minutes.*/
 
 
