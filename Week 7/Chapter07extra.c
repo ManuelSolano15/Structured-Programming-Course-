@@ -16,4 +16,5 @@ sscanf(answer, "%c", &lc);
 cl = lc - 32; 
 
 printf ("The character %c in capital letters is %c\n", lc, cl); 
+return 0;
 } 
